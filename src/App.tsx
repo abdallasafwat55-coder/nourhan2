@@ -59,7 +59,6 @@ export default function App() {
         {showOpening && (
           <Opening
             key="birthday-opening"
-            onComplete={() => setShowOpening(false)}
             onEnterCinema={() => {
               setSiteMusicBlocked(true);
               stopSiteMusic();

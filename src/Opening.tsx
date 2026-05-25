@@ -26,7 +26,7 @@ type Props = {
   onEnterCinema: () => void;
 };
 
-export default function Opening({ onComplete, onEnterCinema }: Props) {
+export default function Opening({ onEnterCinema }: Props) {
   const [phase, setPhase] = useState<Phase>("slide");
   const [playBtnVisible, setPlayBtnVisible] = useState(false);
   const [playBtnPos, setPlayBtnPos] = useState({ leftPct: 50, topPct: 50 });
