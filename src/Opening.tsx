@@ -216,13 +216,6 @@ export default function Opening({ onComplete, onEnterCinema }: Props) {
       initial={{ opacity: 1 }}
       exit={{ opacity: 0 }}
     >
-      {/* <button
-        type="button"
-        onClick={skip}
-        className="absolute left-3 top-3 z-[999] rounded-full border border-white/30 bg-black/30 px-3 py-1.5 text-[11px] text-white backdrop-blur-md sm:left-4 sm:top-4 sm:px-4 sm:py-2 sm:text-xs"
-      >
-        تخطي
-      </button> */}
 
       <motion.div
         className="absolute inset-0 overflow-hidden bg-[radial-gradient(circle_at_top,#ff8fb1_0%,#ffb3c7_30%,#ffd7e2_60%,#fff1f5_100%)]"
