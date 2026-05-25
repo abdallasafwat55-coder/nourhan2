@@ -134,7 +134,6 @@ export default function Opening({ onComplete, onEnterCinema }: Props) {
     return () => window.clearTimeout(confettiTimer);
   }, [photoSequenceDone]);
 
-  const skip = useCallback(() => onComplete(), [onComplete]);
 
   // Show Play button after photo sequence completes
   useEffect(() => {
