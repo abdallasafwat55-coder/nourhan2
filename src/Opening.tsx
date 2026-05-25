@@ -23,7 +23,6 @@ const PHOTO_SETTLE_Y = 64;
 type Phase = "slide" | "finishing";
 
 type Props = {
-  onComplete: () => void;
   onEnterCinema: () => void;
 };
 
