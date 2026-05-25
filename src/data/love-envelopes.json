@@ -1,0 +1,100 @@
+{
+  "recipientName": "Nourhan",
+  "author": {
+    "name": "Abdal",
+    "image": "/images/g5.jpg"
+  },
+  "envelopes": [
+    {
+      "id": 1,
+      "title": "",
+      "name": "Rawan",
+      "image": "images/folder/WhatsApp I.jpeg",
+      "dearName": "Nourhan",
+      "papers": [
+        {
+          "id": 101,
+          "type": "text",
+          "body": "عيد ميلاد سعيد يا Nourhan! 🎂 كل سنة وأنتِ أجمل حاجة في يومي — وأتمنى لكِ سنة مليانة ضحك، صحة، ونجاحات تخلّيكِ فخورة بنفسك."
+        },
+        {
+          "id": 102,
+          "type": "video",
+          "src": "video/New/oUH.mp4",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "",
+      "name": "𝑇𝓞𝑇𝑨",
+      "image": "images/folder/648.jpeg",
+      "dearName": "Nourhan",
+      "papers": [
+        {
+          "id": 201,
+          "type": "text",
+          "body": "24 سنة من النور والجمال… واللي جاي أحلى بكتير! يومكِ النهاردة يستاهل كل الحب اللي  في الدنيا."
+        },
+        {
+          "id": 102,
+          "type": "video",
+          "src": "video/New/oMETEA.mp4",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "",
+      "name": "Oscarr",
+      "image": "images/folder/0c50.jpeg",
+      "dearName": "Nourhan",
+      "papers": [
+        {
+          "id": 301,
+          "type": "image",
+          "src": "/images/g4.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "",
+      "name": "Menoo",
+      "image": "",
+      "dearName": "Nourhan",
+      "papers": [
+        {
+          "id": 401,
+          "type": "text",
+          "title": "",
+          "body": "ضحكتكِ أحلى كونفيتي في أي مناسبه — يارب دايماً تبقي مبتسمة ومبسوطة."
+        },
+        {
+          "id": 402,
+          "type": "image",
+          "src": "/images/g3.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "AHMED",
+      "name": "AHMED",
+      "image": "",
+      "dearName": "Nourhan",
+      "papers": [
+        {
+          "id": 501,
+          "type": "text",
+          "title": "",
+          "body": "شكراً إنكِ موجودة في حياتي. عيد ميلاد سعيد — وللسنين الجاية أحلى ذكريات مع بعض. ❤️"
+        }
+      ]
+    }
+  ]
+}

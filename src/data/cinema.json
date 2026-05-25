@@ -1,0 +1,17 @@
+{
+  "introTitle": "ليلة عيد ميلادكِ",
+  "video": "video/202605250356.mp4",
+  "poster": "",
+  "muted": false,
+  "loop": true,
+  "background": "Screenshot (654).png",
+  "backgroundFallback": "/images/hero-fantasy.jpg",
+  "fallbackSlides": [
+    "/images/g1.jpg",
+    "/images/g2.jpg",
+    "/images/g3.jpg",
+    "/images/g4.jpg",
+    "/images/g5.jpg",
+    "/images/g6.jpg"
+  ]
+}
